@@ -13,3 +13,4 @@ AUDIO_ENABLE = no           # Audio output
 DIP_SWITCH_ENABLE = yes
 RGB_MATRIX_ENABLE = yes
 LTO_ENABLE = yes
+RGB_MATRIX_CUSTOM_USER = yes
